@@ -2,4 +2,4 @@ https://stackoverflow.com/questions/52184271/image-and-voronoi-diagram-on-the-sa
 https://stackoverflow.com/questions/9154120/how-can-i-flip-an-image-along-the-vertical-axis-with-python
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.voronoi_plot_2d.html
 
-![](Final_v1.png)
+![](Misc/Final_v1.png)
