@@ -4,7 +4,7 @@ from scipy.spatial import Voronoi, voronoi_plot_2d
 import scipy.ndimage as ndimage
 
 
-img = plt.imread('respawns.jpg')
+img = plt.imread('Misc/Original Map.jpg')
 img2 = np.fliplr(img)
 
 points = [
