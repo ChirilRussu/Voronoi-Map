@@ -1,3 +1,7 @@
+# to do:
+# full screen window
+# saving the image as png instead of jpg
+
 import matplotlib.pyplot as plt
 import numpy as np
 from scipy.spatial import Voronoi, voronoi_plot_2d
