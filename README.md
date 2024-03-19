@@ -1,12 +1,20 @@
-Plotting:
+Static Exe can be found in "Exe Example" folder to launch the app without installing python or dependancies 
 
-https://matplotlib.org/stable/users/installing/index.html
+- https://pyinstaller.org/en/stable/
 
-https://scipy.org/install/#pip-install
+Python Dependancies:
 
-Exe: 
+- https://matplotlib.org/stable/users/installing/index.html
 
-https://pypi.org/project/py2exe/
+- https://scipy.org/install/#pip-install
+
+-----------------------
+
+Run Voronoi.py to open the graph - bototm left will show coordinates.
+
+To place points on the map - add them to the "points" list 
+
+
 
 ![](Misc/Final_V4.png)
 
